@@ -14,6 +14,7 @@ productos = ["Agua", "alfajor", "tostado"]
 precios = [700, 900, 2200]
 print ("usted pidio: ", productos[pedido-1], "y le costara $",precios[pedido-1])
 pedido_total = precios[pedido-1]
+print ("su pedido total es de: $", pedido_total)
 
 # =========================
 # ETAPA 1 - INICIO
